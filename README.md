@@ -1,5 +1,9 @@
-# program
-My first github repository.
+# Credit Card UI Design
+SHIVANI PADAMWAR
 <br>
-Aurthor-Shivani 
+20th April 2024
+<br>
+This repository has UI Design of a standard Credit Card.
+
+
 
